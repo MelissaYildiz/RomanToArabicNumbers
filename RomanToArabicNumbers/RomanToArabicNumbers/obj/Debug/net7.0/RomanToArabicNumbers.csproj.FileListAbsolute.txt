@@ -1,0 +1,15 @@
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\bin\Debug\net7.0\RomanToArabicNumbers.exe
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\bin\Debug\net7.0\RomanToArabicNumbers.deps.json
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\bin\Debug\net7.0\RomanToArabicNumbers.runtimeconfig.json
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\bin\Debug\net7.0\RomanToArabicNumbers.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\bin\Debug\net7.0\RomanToArabicNumbers.pdb
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.csproj.AssemblyReference.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.AssemblyInfoInputs.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.AssemblyInfo.cs
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\refint\RomanToArabicNumbers.dll
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.pdb
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\RomanToArabicNumbers.genruntimeconfig.cache
+C:\Users\Mel\OneDrive\Desktop\Coding\RomanToArabicNumbers\RomanToArabicNumbers\obj\Debug\net7.0\ref\RomanToArabicNumbers.dll
